@@ -1,0 +1,9 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Software Engineer position at your company. 
+With my strong background in software engineering and experience in Java, Python, and JavaScript, I believe 
+I would be a valuable addition to your team. I have attached my resume for your review. 
+Thank you for considering my application.
+
+Sincerely,
+Elaf Alshanqiti
